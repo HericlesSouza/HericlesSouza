@@ -3,8 +3,8 @@
 <p>Sempre amei tecnologia desde pequeno, mas nunca havia tido contato com a programação em si. Foi em 2021 que através de um curso de Eletroeletrônica tive o meu primeiro contato com programação através de um projeto com Arduíno, e foi aí que desencadeou todo o meu interesse e paixão por essa área. Atualmente estudo Desenvolvimento Web Full Stack pela Kenzie Academy Brasil, curso com a carga horária de 2.000h, onde estou indo para o último módulo.📘👨‍. </p>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HericlesSouza&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HericlesSouza&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HericlesSouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HericlesSouza&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
 ## 🌐 Socials:
