@@ -10,7 +10,13 @@
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=HericlesSouza&theme=radical"/>
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HericlesSouza&theme=dracula&hide_border=false&&layout=compact"/>
     </a>
-  </div>
+</div>
+
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=HericlesSouza&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HericlesSouza&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+  
 
 
 ## 🌐 Socials:
