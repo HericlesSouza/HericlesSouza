@@ -2,23 +2,11 @@
 <p>Sou um desenvolvedor Full Stack em busca de novas oportunidades no mercado de trabalho!</p>
 <p>Sempre amei tecnologia desde pequeno, mas nunca havia tido contato com a programação em si. Foi em 2021 que através de um curso de Eletroeletrônica tive o meu primeiro contato com programação através de um projeto com Arduíno, e foi aí que desencadeou todo o meu interesse e paixão por essa área. Atualmente estudo Desenvolvimento Web Full Stack pela Kenzie Academy Brasil, curso com a carga horária de 2.000h, onde estou indo para o último módulo.📘👨‍. </p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HericlesSouza&count_private=true&show_icons=true&theme=radical)](https://github.com/HericlesSouza/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HericlesSouza&langs_count=10&layout=compact&count_private=true&theme=radical)](https://github.com/HericlesSouza/github-readme-stats)
-
-<div align="left">
-    <a href="https://github.com/GuilhermeSchulz">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=HericlesSouza&theme=radical"/>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HericlesSouza&theme=dracula&hide_border=false&&layout=compact"/>
-    </a>
-</div>
-
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=HericlesSouza&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HericlesSouza&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HericlesSouza&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
   
-
-
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/hericles-souza-12607b245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:hericlessouza01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
