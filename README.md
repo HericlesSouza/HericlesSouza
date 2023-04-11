@@ -8,7 +8,6 @@
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px; justify-content: space-between;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HericlesSouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HericlesSouza&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 # 🌐 Contatos:
